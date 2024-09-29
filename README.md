@@ -4,7 +4,7 @@ This repository contains assignment-3 of Busniess Forcasting about the time seri
 
 Although, The periodicity of the data should be monthly or quarterly. 
 
-Question2:- Detailed description of the data amd how to create a good data dictionary.
+**Question2:- Detailed description of the data amd how to create a good data dictionary.**
 
 Answer:-
 
@@ -144,7 +144,7 @@ The Month column represents the first day of each month but aggregates the numbe
 
 The dataset is ideal for studying programming language popularity trends and can be used in time series analysis for forecasting future trends.
 
-Question3:- Data Collection Methodology. State how the data is collected, by whom, how often, etc. 
+**Question3:-** **Data Collection Methodology. State how the data is collected, by whom, how often, etc.** 
 
 Answer:-
 
@@ -158,7 +158,7 @@ Answer:-
 
 **Collected By:** The specific collector or organization is unclear, but it could be compiled by developers, data scientists, or research teams interested in trends in programming languages over time.
 
-Question4:- Why does this data set intrigue you?
+**Question4:- Why does this data set intrigue you?**
 
 Answer:-
 
